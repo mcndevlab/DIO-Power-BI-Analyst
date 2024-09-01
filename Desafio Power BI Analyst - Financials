@@ -1,1 +1,5 @@
-
+git init
+git add Desafio de Projeto DIO - Power Analyst 09.2024.pbix
+git commit -m Desafio de Projeto DIO - Power Analyst 09.2024.pbix
+git remote add origin https://github.com/mcndevlab/DIO-Power-BI-Analyst/Desafio Power BI Analyst - Financials.git
+git push origin main
